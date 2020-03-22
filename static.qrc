@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>static/stylesheet/ui.qss</file>
+        <file>static/images/redis.png</file>
+        <file>static/images/redis_selected.png</file>
+        <file>static/images/view.png</file>
+        <file>static/images/delete.png</file>
+        <file>static/images/move.png</file>
+        <file>static/images/rename.png</file>
+        <file>static/images/add.png</file>
+        <file>static/images/edit.png</file>
+        <file>static/images/edit_2.png</file>
+        <file>static/images/edit_3.png</file>
+        <file>static/images/search.png</file>
+        <file>static/images/info.png</file>
+        <file>static/images/error.png</file>
+        <file>static/images/success.png</file>
+    </qresource>
+</RCC>
